@@ -14,7 +14,7 @@ const Projects = () => {
       icon: Camera,
       title: "Face Detection and Recognition",
       description: "A Face Detection and Recognition system built using Python, OpenCV, and deep learning frameworks.",
-      tags: ["Open CV", "Caffe Deep", "Python"],
+      tags: ["Open CV", "Caffe", "Python"],
       link: "https://github.com/moin-dbud/CodSoft-Intetnship/tree/main/Task_2"
     },
     {
