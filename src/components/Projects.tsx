@@ -24,14 +24,6 @@ const Projects = () => {
       tags: ["React", "AI", "Education"],
       link: "https://adaptivescholar.free.nf/?i=1"
     }
-    // },
-    // {
-    //   icon: Shop,
-    //   title: "Tech Gadgets E-Commerce Website",
-    //   description: "This is a fully responsive Tech Gadgets E-Commerce Website built using HTML, Tailwind CSS, and JavaScript. The website offers a modern UI with dynamic product listings and smooth navigation for an enhanced user experience.",
-    //   tags: ["HTML", "Tailwind CSS", "Javascript"],
-    //   link: "https://techgadgetss.netlify.app/"
-    // }
   ];
 
   return (
